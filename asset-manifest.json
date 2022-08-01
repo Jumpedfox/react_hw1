@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Jumpedfox/react_hw1/static/css/main.1adcef02.css",
-    "main.js": "/Jumpedfox/react_hw1/static/js/main.0a9f6110.js",
-    "index.html": "/Jumpedfox/react_hw1/index.html",
-    "main.1adcef02.css.map": "/Jumpedfox/react_hw1/static/css/main.1adcef02.css.map",
-    "main.0a9f6110.js.map": "/Jumpedfox/react_hw1/static/js/main.0a9f6110.js.map"
+    "main.css": "/goitacademy/react-homework-template/static/css/main.1adcef02.css",
+    "main.js": "/goitacademy/react-homework-template/static/js/main.0a9f6110.js",
+    "index.html": "/goitacademy/react-homework-template/index.html",
+    "main.1adcef02.css.map": "/goitacademy/react-homework-template/static/css/main.1adcef02.css.map",
+    "main.0a9f6110.js.map": "/goitacademy/react-homework-template/static/js/main.0a9f6110.js.map"
   },
   "entrypoints": [
     "static/css/main.1adcef02.css",
